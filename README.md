@@ -1,6 +1,9 @@
 # File_System_Java
 Design an in-memory mock file system
-Support command lines:
+
+
+
+1, Support command lines:
 - mkdir
 - ls
 - ls -r or ls -R
@@ -16,3 +19,6 @@ Support command lines:
 - mv
 - cp
 - !number
+
+2, programming IDE:
+- IntelliJ
